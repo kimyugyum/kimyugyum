@@ -8,3 +8,5 @@
 </p>
 
 ## 👨‍💻 About Me
+- Chung-Ang University Art and Technology & Cyber Security(2021.03.~)
+- 
